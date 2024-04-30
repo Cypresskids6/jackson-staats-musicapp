@@ -1,0 +1,75 @@
+otes Day 1:
+
+Essential HTML Tags (EHTs)
+div ~ divider
+h1 ~ heading
+p ~ paragraph
+button
+a ~ anchor
+ol/ul -> li ~ ordered/unordered -> list item
+input
+img
+br ~ break
+
+What is Next.js?
+- Next.js is a flexible React framework that
+gives you building blocks to create fast, full-stack web applications.
+
+What is React?
+-React is a JavaScript library for building interactive user interfaces.
+
+What language do we use in Next.js?
+- JSX (JavaScript XML)
+
+What is the user interface (UI)?
+- the elements that users see and interact with on-screens.
+
+What do we need to consider when building a modern application?
+- the user interface
+- navigation
+- static vs dynamic content
+- focus
+
+Why React and Next.js?
+- We can create highly dynamic and performat web applications. Bigger and Better!
+
+What is the HTML Document Object Model (DOM)?
+- An object representation of the HTML elements.
+- Has a tree-like structure with parent and child relationships.
+
+Notes Day 2:
+How do we create a Next.js / React application?
+- npx create-next-app@latest
+
+How do we run a Next.js / React application?
+- npm run dev
+
+Using Next.js and React, what can we create?
+- web applications
+
+What is a React component?
+- A JavaScript function that returns a HTML element
+
+What are 2 standard React components we should include in every web applications?
+-navbar and footer
+
+What are some characteristics of a navbar?
+- search bar
+- logos
+- website names
+- links
+
+What are some characteristics of a footer?
+- contact information
+- extra information
+- address
+
+Notes Day 3:
+In CSS, what is :root?
+- A pseudo-class that we use to define global CSS variables.
+
+What tools do we use to create logos and color palettes?
+- coolors.co for color palettes and canva for logos
+
+In React, instead of using classes on HTML element, what do we use?
+- className properties
